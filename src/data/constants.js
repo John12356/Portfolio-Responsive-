@@ -79,6 +79,35 @@ export const skills = [
     ],
   },
   {
+    title: "IDE's",
+    skills: [
+      {
+        name: "Eclipse",
+        image:
+          "https://media.licdn.com/dms/image/D4D0BAQERLDlCmhCs8Q/company-logo_200_200/0/1701697187642?e=1712793600&v=beta&t=tCk5lQkeq4m7y82p8FTglweRy7mYhSDKsmObig1z7B4",
+      },
+      {
+        name: "VS Code",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+      },
+    ],
+  },
+  {
+    title: "Hosting",
+    skills: [
+      {
+        name: "Vercel",
+        image: "https://avatars.githubusercontent.com/u/14985020?s=200&v=4",
+      },
+      {
+        name: "Render",
+        image:
+          "https://media.licdn.com/dms/image/D4E0BAQGGDoFoqHtOvA/company-logo_200_200/0/1702595267620/renderco_logo?e=1712793600&v=beta&t=det1n2FBxhJZLyWvPtES57WaNiN2pP0lB7jrXofgpwo",
+      },
+    ],
+  },
+  {
     title: "Others",
     skills: [
       {
@@ -92,9 +121,14 @@ export const skills = [
           "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
       },
       {
-        name: "VS Code",
+        name: "Windows",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+          "https://cdn.icon-icons.com/icons2/2845/PNG/512/windows_logo_icon_181324.png",
+      },
+      {
+        name: "Chrome",
+        image:
+          "https://image.similarpng.com/very-thumbnail/2020/07/Google-chrome-icon-logo-Clipart-PNG.png",
       },
       {
         name: "Canva",
