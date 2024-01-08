@@ -4,7 +4,9 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ### Weblink: [Live Website](https://rishavchanda.netlify.app)
 ## Some Images:
 
-
+![Screenshot (79)](https://github.com/John12356/Portfolio/assets/91779049/8ec8fac1-39c9-4f4d-9efc-d48750b6dda0)
+![Screenshot (80)](https://github.com/John12356/Portfolio/assets/91779049/329c4686-050e-46da-83f2-debf22cfff57)
+![Screenshot (81)](https://github.com/John12356/Portfolio/assets/91779049/9fa3e9c1-91c2-4dfb-b9b1-e477197111aa)
 
 ## Table of Contents
 - [Introduction](#introduction)
