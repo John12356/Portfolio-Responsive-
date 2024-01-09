@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/john12356",
   resume:
-    "https://drive.google.com/file/d/1Q8Eu5UswIWVB4obTke2WPfIXFmLwb5UV/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1XoFd-tmu5ZykY8MLSkLHlERHkFi92fp-/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/ruthra-moorthy-k-084104214/",
   LeetCode: "https://leetcode.com/Ruthra_Moorthy/",
 };
