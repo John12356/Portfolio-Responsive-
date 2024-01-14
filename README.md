@@ -33,7 +33,7 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 - JavaScript: A programming language for adding interactivity to web applications.
 - Style-Components: A CSS framework for creating responsive and mobile-first designs.
 - Git: A version control system for tracking changes and collaborating on projects.
-- GitHub Pages: A platform for hosting and deploying web applications.
+- Vercel: A platform for hosting and deploying web applications.
 
 ## Installation
 To run this portfolio locally, follow these steps:
