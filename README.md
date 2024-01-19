@@ -3,10 +3,13 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](https://portfolio-ten-rho-26.vercel.app/)
 ## Some Images:
+### Desktop
 
 ![Screenshot (79)](https://github.com/John12356/Portfolio/assets/91779049/8ec8fac1-39c9-4f4d-9efc-d48750b6dda0)
 ![Screenshot (80)](https://github.com/John12356/Portfolio/assets/91779049/329c4686-050e-46da-83f2-debf22cfff57)
 ![Screenshot (81)](https://github.com/John12356/Portfolio/assets/91779049/9fa3e9c1-91c2-4dfb-b9b1-e477197111aa)
+### Mobile
+![photo_6150219574340074190_y](https://github.com/John12356/Portfolio-Responsive-/assets/91779049/b555a60e-e3be-475e-bf24-5cb092b9f50c)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -33,12 +36,12 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 - JavaScript: A programming language for adding interactivity to web applications.
 - Style-Components: A CSS framework for creating responsive and mobile-first designs.
 - Git: A version control system for tracking changes and collaborating on projects.
-- GitHub Pages: A platform for hosting and deploying web applications.
+- Vercel: A platform for hosting and deploying web applications.
 
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/John12356/Portfolio.git`
+1. Clone the repository: `git clone https://github.com/John12356/Portfolio-Responsive-.git`
 2. Navigate to the project directory: `cd portfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
