@@ -225,7 +225,7 @@ export const projects = [
     image:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-80a42.appspot.com/o/images%20of%20proj%2FScreenshot%20(76).png?alt=media&token=9e5b3231-2877-43d4-8bf1-fca550a52540",
     tags: ["React Js", "MUI", "MongoDb", "Node Js", "Express Js"],
-    category: "web app",
+    category: "mern",
     github: "https://github.com/John12356/Netflix-Clone",
     // webapp: "https://trackify.duckdns.org",
   },
@@ -238,7 +238,7 @@ export const projects = [
     image:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-80a42.appspot.com/o/images%20of%20proj%2FScreenshot%20(64).png?alt=media&token=8499d85b-534a-4340-a102-8fb71deb0e7f",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "MUI"],
-    category: "web app",
+    category: "mern",
     github: "https://github.com/John12356/Task-Manager--First-MERN",
     // webapp: "https://podstream.netlify.app/",
   },
@@ -251,7 +251,7 @@ export const projects = [
     image:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-80a42.appspot.com/o/images%20of%20proj%2FScreenshot%20(72).png?alt=media&token=9daf7ced-4b57-4713-97fc-f4dfe527669c",
     tags: ["React Js", "Dalle API"],
-    category: "web app",
+    category: "mern",
     github: "https://github.com/John12356/Ai-Image-Generator",
     // webapp: "https://vexa-app.netlify.app/",
   },
@@ -264,7 +264,7 @@ export const projects = [
     image:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-80a42.appspot.com/o/images%20of%20proj%2FScreenshot%20(70).png?alt=media&token=a61d4c13-4ee3-48d7-ba0c-9cc7a39109d2",
     tags: ["Java", "Eclipse"],
-    category: "Console app",
+    category: "Console",
     github: "https://github.com/John12356/TicTacToe-console-game-JAVA",
     // webapp: "https://brain-tumor.netlify.app/",
   },
@@ -277,7 +277,7 @@ export const projects = [
     image:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-80a42.appspot.com/o/images%20of%20proj%2FScreenshot%20(71).png?alt=media&token=d2661935-ac7f-45b3-ac8c-ef15e4011ab4",
     tags: ["Java", "Eclipse"],
-    category: "Console app",
+    category: "Console",
     github: "https://github.com/John12356/JAVA-Snake-console-game",
     // webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
   },
@@ -290,7 +290,7 @@ export const projects = [
     image:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-80a42.appspot.com/o/images%20of%20proj%2Fphoto_6115956777678912209_y.jpg?alt=media&token=6b36f819-8d03-4131-81cf-85ed516a5fe5",
     tags: ["Aurduino", "Java", "C++", "Firebase"],
-    category: "IOT Device",
+    category: "IOT",
     member: [
       {
         name: "Shyam Swaran S",
@@ -317,7 +317,7 @@ export const projects = [
     image:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-80a42.appspot.com/o/images%20of%20proj%2FScreenshot%20(77).png?alt=media&token=2dc7f382-4f41-4414-bbfd-e6ce08a4ab45",
     tags: ["Java", "Eclipse"],
-    category: "Console app",
+    category: "Console",
     github:
       "https://github.com/John12356/Railway-Reservation-System-JAVA-console-App",
     // webapp: "https://whatsapp-clone-rishav.web.app",

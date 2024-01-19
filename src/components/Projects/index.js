@@ -34,17 +34,13 @@ const Projects = ({ openModal, setOpenModal }) => {
             </ToggleButton>
           )}
           <Divider />
-          {toggle === "web app" ? (
-            <ToggleButton
-              active
-              value="web app"
-              onClick={() => setToggle("web app")}
-            >
-              WEB APP'S
+          {toggle === "mern" ? (
+            <ToggleButton active value="mern" onClick={() => setToggle("mern")}>
+              MERN
             </ToggleButton>
           ) : (
-            <ToggleButton value="web app" onClick={() => setToggle("web app")}>
-              WEB APP'S
+            <ToggleButton value="mern" onClick={() => setToggle("mern")}>
+              MERN
             </ToggleButton>
           )}
           <Divider />
@@ -65,37 +61,27 @@ const Projects = ({ openModal, setOpenModal }) => {
             </ToggleButton>
           )}
           <Divider />
-          {toggle === "Console app" ? (
+          {toggle === "Console" ? (
             <ToggleButton
               active
-              value="Console app"
-              onClick={() => setToggle("Console app")}
+              value="Console"
+              onClick={() => setToggle("Console")}
             >
-              CONSOLE APP'S
+              CONSOLE
             </ToggleButton>
           ) : (
-            <ToggleButton
-              value="Console app"
-              onClick={() => setToggle("Console app")}
-            >
-              CONSOLE APP'S
+            <ToggleButton value="Console" onClick={() => setToggle("Console")}>
+              CONSOLE
             </ToggleButton>
           )}
           <Divider />
-          {toggle === "IOT Device" ? (
-            <ToggleButton
-              active
-              value="IOT Device"
-              onClick={() => setToggle("IOT Device")}
-            >
-              IOT COMPONENT{" "}
+          {toggle === "IOT" ? (
+            <ToggleButton active value="IOT" onClick={() => setToggle("IOT")}>
+              IOT
             </ToggleButton>
           ) : (
-            <ToggleButton
-              value="IOT Device"
-              onClick={() => setToggle("IOT Device")}
-            >
-              IOT DEVICE
+            <ToggleButton value="IOT" onClick={() => setToggle("IOT")}>
+              IOT
             </ToggleButton>
           )}
         </ToggleButtonGroup>
