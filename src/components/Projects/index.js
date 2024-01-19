@@ -48,6 +48,23 @@ const Projects = ({ openModal, setOpenModal }) => {
             </ToggleButton>
           )}
           <Divider />
+          {toggle === "Frontend" ? (
+            <ToggleButton
+              active
+              value="Frontend"
+              onClick={() => setToggle("Frontend")}
+            >
+              FRONTEND
+            </ToggleButton>
+          ) : (
+            <ToggleButton
+              value="Frontend"
+              onClick={() => setToggle("Frontend")}
+            >
+              FRONTEND
+            </ToggleButton>
+          )}
+          <Divider />
           {toggle === "Console app" ? (
             <ToggleButton
               active
@@ -78,7 +95,7 @@ const Projects = ({ openModal, setOpenModal }) => {
               value="IOT Device"
               onClick={() => setToggle("IOT Device")}
             >
-              IOT COMPONENT
+              IOT DEVICE
             </ToggleButton>
           )}
         </ToggleButtonGroup>

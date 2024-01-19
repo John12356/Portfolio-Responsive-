@@ -325,15 +325,41 @@ export const projects = [
   {
     id: 7,
     title: "Analog CLock",
-    date: "APr 2023 - Apr 2023",
+    date: "Apr 2023 - Apr 2023",
     description:
       " The Analog Clock project is a simple web application created using HTML, CSS, and JavaScript. The project features a visually appealing analog clock with three hands representing hours, minutes, and seconds. The clock is designed with a circular layout and a distinctive center point.",
     image:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-80a42.appspot.com/o/images%20of%20proj%2FScreenshot%20(78).png?alt=media&token=c3b06705-b693-4517-88b1-9ca90a6cbd31",
     tags: ["HTML", "CSS", "JavaScript"],
-    category: "web app",
+    category: "Frontend",
     github: "https://github.com/John12356/AnalogClock",
     webapp: "https://john12356.github.io/AnalogClock/",
+  },
+  {
+    id: 8,
+    title: "Responsive Dashboard",
+    date: "Jan 2024 - Jan 2024",
+    description:
+      "An admin responsive dashboard is a user interface (UI) designed specifically for administrators or users with administrative privileges to manage and monitor various aspects of a system or application. The term responsive indicates that the dashboard is designed to adapt and display optimally across different devices and screen sizes, such as desktops, tablets, and smartphones.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-80a42.appspot.com/o/images%20of%20proj%2FScreenshot%20(83).png?alt=media&token=badcdc17-dfde-4569-9238-f512d265ff2c",
+    tags: ["ReactJS", "MUI", "ChartJS"],
+    category: "Frontend",
+    github: "https://github.com/John12356/Fully-Responsive-Dashboard",
+    webapp: "https://admin-dashboard-five-phi.vercel.app/",
+  },
+  {
+    id: 9,
+    title: "Advanced Rock-Paper-Scissor",
+    date: "May 2023 - May 2023",
+    description:
+      "A web-based Rock, Paper, Scissors game is a digital adaptation of the classic hand game typically played between two people. In this online version, participants can engage in the timeless decision-making contest through a web browser.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-80a42.appspot.com/o/images%20of%20proj%2Fdesktop-preview.jpg?alt=media&token=a40f742d-4fc9-499d-ae95-92da4b82007e",
+    tags: ["HTML", "CSS", "JavaScript"],
+    category: "Frontend",
+    github: "https://github.com/John12356/Advanced-Rock-Paper-Scissors-Game",
+    webapp: "https://john12356.github.io/Advanced-Rock-Paper-Scissors-Game/",
   },
 ];
 
