@@ -1,6 +1,6 @@
 export const Bio = {
   name: "Ruthra Moorthy K",
-  roles: ["Full Stack MERN Developer", "Frontend Developer", "Java Programmer"],
+  roles: ["Full Stack Developer", "Frontend Developer", "Java Programmer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/john12356",
@@ -213,20 +213,29 @@ export const education = [
     desc: "I completed my class 11 & 12 high school education at DRBCCC Hindu Higher Secondary School, Thiruvallur, where I studied Biology with Maths.",
     degree: "HSC, Biology with Maths",
   },
+  {
+    id: 2,
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/933px-TamilNadu_Logo.svg.png",
+    school: "Government Higher Secondary School, Kanakamma Chatram,Thiruvallur",
+    date: "Jun 2014 - Mar 2018",
+    grade: "82.2%",
+    desc: "I completed my high school education at Government Higher Secondary School, Kanakamma Chatram, where I studied from 6th to 10th standard school of education.",
+    degree: "SSLC",
+  },
 ];
 
 export const projects = [
   {
     id: 0,
     title: "Netflix - Clone",
-    date: "Dec 2023 - Jan 2024",
+    date: "Dec 2023 - Present",
     description:
       "The Netflix-Clone Web App is a responsive streaming platform replica with user authentication, a vast movie/show catalog, search and filtering options, seamless video playback, user profiles, watchlist, history, ratings, and reviews.",
     image:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-80a42.appspot.com/o/images%20of%20proj%2FScreenshot%20(76).png?alt=media&token=9e5b3231-2877-43d4-8bf1-fca550a52540",
     tags: ["React Js", "MUI", "MongoDb", "Node Js", "Express Js"],
     category: "mern",
-    github: "https://github.com/John12356/Netflix-Clone",
+    github: "https://github.com/John12356/Netflix-Clone-MERN",
     // webapp: "https://trackify.duckdns.org",
   },
   {
