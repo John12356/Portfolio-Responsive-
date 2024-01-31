@@ -228,15 +228,15 @@ export const projects = [
   {
     id: 0,
     title: "Netflix - Clone",
-    date: "Dec 2023 - Present",
+    date: "Dec 2023 - Feb 2024",
     description:
       "The Netflix-Clone Web App is a responsive streaming platform replica with user authentication, a vast movie/show catalog, search and filtering options, seamless video playback, user profiles, watchlist, history, ratings, and reviews.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-80a42.appspot.com/o/images%20of%20proj%2FScreenshot%20(76).png?alt=media&token=9e5b3231-2877-43d4-8bf1-fca550a52540",
-    tags: ["React Js", "MUI", "MongoDb", "Node Js", "Express Js"],
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-80a42.appspot.com/o/images%20of%20proj%2FScreenshot%20(87).png?alt=media&token=21f39cb2-5bc9-4a6d-b6ad-d6e5f486ef4e",
+    tags: ["React Js", "MUI", "MongoDb", "Firebase", "Node Js", "Express Js"],
     category: "mern",
     github: "https://github.com/John12356/Netflix-Clone-MERN",
-    // webapp: "https://trackify.duckdns.org",
+    webapp: "https://netflix-clone-mern-eight.vercel.app/",
   },
   {
     id: 1,
