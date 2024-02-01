@@ -236,7 +236,7 @@ export const projects = [
     tags: ["React Js", "MUI", "MongoDb", "Firebase", "Node Js", "Express Js"],
     category: "mern",
     github: "https://github.com/John12356/Netflix-Clone-MERN",
-    webapp: "https://netflix-clone-mern-eight.vercel.app/",
+    webapp: "https://netflix-clone-mern-8t6p.vercel.app",
   },
   {
     id: 1,
