@@ -189,8 +189,18 @@ export const courses = [
     company: "Google",
     date: "Dec 2022 - Jan 2023",
     desc: "Learned about marketing in intenet media",
-    skills: ["Intro to marketing"],
+    skills: ["Intro to Digital Marketing"],
     doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-80a42.appspot.com/o/images%20of%20proj%2Fphoto_6115956777678912382_y.jpg?alt=media&token=acb4587a-c73f-4e0c-8d23-9b35f6d99e4a",
+  },
+  {
+    id: 2,
+    img: "https://play-lh.googleusercontent.com/dsCkmJE2Fa8IjyXERAcwc5YeQ8_NvbZ4_OI8LgqyjILpXUfS5YhEcnAMajKPrZI-og",
+    role: "JavaScript - Basics to Advanced",
+    company: "Udemy",
+    date: "Jan 2024",
+    desc: "Learned JavaScript and ES6 Modules",
+    skills: ["JavaScript", "ES6"],
+    doc: "https://firebasestorage.googleapis.com/v0/b/portfolio-80a42.appspot.com/o/images%20of%20proj%2Fphoto_6199560523708742040_y.jpg?alt=media&token=19583d4d-21a1-47b5-a46a-5abced42887a",
   },
 ];
 
@@ -230,7 +240,7 @@ export const projects = [
     title: "Netflix - Clone",
     date: "Dec 2023 - Feb 2024",
     description:
-      "The Netflix-Clone Web App is a responsive streaming platform replica with user authentication, a vast movie/show catalog, search and filtering options, seamless video playback, user profiles, watchlist, history, ratings, and reviews.",
+      "Note : The server API runs on free version of Render. So by the time you are using it would be in sleep.The Netflix-Clone Web App is a responsive streaming platform replica with user authentication, a vast movie/show catalog, search and filtering options, seamless video playback, user profiles, watchlist, history, ratings, and reviews.",
     image:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-80a42.appspot.com/o/images%20of%20proj%2FScreenshot%20(87).png?alt=media&token=21f39cb2-5bc9-4a6d-b6ad-d6e5f486ef4e",
     tags: ["React Js", "MUI", "MongoDb", "Firebase", "Node Js", "Express Js"],
